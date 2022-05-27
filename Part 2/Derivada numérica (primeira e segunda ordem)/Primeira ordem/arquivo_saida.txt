@@ -1,0 +1,3 @@
+Centrada: 0.1825
+Retardada: 0.095
+Avancada: 0.27
